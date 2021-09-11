@@ -1,0 +1,16 @@
+name: TPS_sept21
+
+dependencies:
+    - python==3.8
+    - pip==21.2.2
+    
+    - pip:
+      - numpy
+      - pandas
+      - matplotlib
+      - tensorflow
+      - scikit-learn 
+      - jupyterlab
+      - xgboost
+    
+  
